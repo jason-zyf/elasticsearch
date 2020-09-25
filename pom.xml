@@ -75,6 +75,7 @@
 
     <modules>
         <module>elasticsearch-base</module>
+        <module>elasticsearch-springdata</module>
     </modules>
 
 </project>
